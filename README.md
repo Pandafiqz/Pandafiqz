@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pandafiqz
 - 👀 I’m interested in coding and playing games
-- 🌱 I’m currently learning computer science (more into security stuff)
+- 🌱 I’m currently working and learning for Penetration Tester (CPTS / OSCP)
 
 
 <!---
